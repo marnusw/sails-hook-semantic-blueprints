@@ -1,0 +1,30 @@
+{
+  "name": "sails-hook-semantic-blueprints",
+  "version": "0.1.0",
+  "description": "Adds findAndUpdate and findAndDestroy Blueprint routes to fully comply with the Waterline Semantic interface",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marnusw/sails-hook-semantic-blueprints.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "merge-defaults": "^0.2.1",
+    "pluralize": "~0.0.5",
+    "waterline-criteria": "^0.11.1"
+  },
+  "devDependencies": {},
+  "sails": {
+    "isHook": true
+  },
+  "author": "Marnus Weststrate <marnusw@gmail.com>",
+  "contributors": [],
+  "keywords": [
+    "sails",
+    "blueprint",
+    "waterline",
+    "semantic"
+  ],
+  "license": "MIT"
+}
