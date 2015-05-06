@@ -26,5 +26,9 @@
     "waterline",
     "semantic"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marnusw/sails-hook-semantic-blueprints/issues"
+  },
+  "homepage": "https://github.com/marnusw/sails-hook-semantic-blueprints"
 }
