@@ -18,7 +18,7 @@ In Sails.js v0.11+ installed hooks are run automatically. Therefore, simply inst
 The typical criteria including `where`, `limit`, `skip` and `sort` can be provided in the request body along with
 either a `data` or `values` property. All records that match the criteria will be updated with the data/values.
  
-*Note:* The limit, skip and sort options do not apply to the records that will be updates, but merely affects the
+*Note:* The limit, skip and sort options do not apply to the records that will be updated, but merely affects the
  record set that will be returned to the client. *All* records matching the criteria *will* be updated.
 
 ## findAndDestroy
